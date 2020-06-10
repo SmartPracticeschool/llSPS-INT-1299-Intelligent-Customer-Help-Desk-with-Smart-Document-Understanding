@@ -9,3 +9,6 @@ ACTION FILE - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-
 
 DATA SET - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/ecobee3_UserGuide.pdf
 
+NODE RED FLOW - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/flows.json
+
+WATSON SKILL - 
