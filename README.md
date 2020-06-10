@@ -11,4 +11,4 @@ DATA SET - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Cus
 
 NODE RED FLOW - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/flows.json
 
-WATSON SKILL - 
+WATSON SKILL - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/skill-My-first-skill%20(1).json
