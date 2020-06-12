@@ -5,6 +5,8 @@ PROJECT REPORT - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intellige
 
 DEMO VIDEO - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/Resource%20list%20-%20IBM%20Cloud%20-%20Google%20Chrome%202020-06-07%2017-40-49.mp4
 
+DEMO VIDEO YOUTUBE LINK - https://youtu.be/D8OLlBMhSwQ
+
 ACTION FILE - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/action.js
 
 DATA SET - https://github.com/SmartPracticeschool/llSPS-INT-1299-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding/blob/master/ecobee3_UserGuide.pdf
